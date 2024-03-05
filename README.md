@@ -16,9 +16,9 @@ The Household Splitwise Interactive is a Python-based command-line application d
 
 2. Install required Python packages using pip:
 
-'''bash
+```bash
 pip install pandas openpyxl
-'''
+```
 
 ## How to Run
 
