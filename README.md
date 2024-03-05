@@ -27,6 +27,9 @@ pip install pandas openpyxl
 3. Navigate to the directory where `splitwise.py` is saved.
 4. Run the script using Python:
 
+```bash
+python splitwise.py
+```
 
 ## Features and Functions
 
