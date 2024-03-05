@@ -10,7 +10,7 @@ class HouseholdSplitwiseInteractive:
         self.universal_payer = None
 
     def add_users(self):
-        user_names = ["Gokul", "Navaneeth", "Abhishek", "Teja", "Harris"]
+        user_names = ["User1", "User2", "User3", "User4", "User5"]
         print("Adding users:")
         for i, name in enumerate(user_names, start=1):
             self.user_map[str(i)] = name
