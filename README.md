@@ -1,4 +1,4 @@
-# Household Splitwise Interactive
+# Splitwise-Python-Single-Day-Final-Share
 
 The Household Splitwise Interactive is a Python-based command-line application designed to simplify tracking and splitting expenses among housemates or any group of people. This tool allows users to input transactions, define who paid and who owes, and then exports a detailed summary to an Excel file.
 
